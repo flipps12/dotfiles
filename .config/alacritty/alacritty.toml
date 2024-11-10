@@ -1,0 +1,63 @@
+[colors.bright]
+#black = "#545454"
+#blue = "#94bff3"
+#cyan = "#93e0e3"
+#green = "#8ae234"
+#magenta = "#b294bb"
+#red = "#fc5454"
+#white = "#ffffff"
+#yellow = "#fce94f"
+black = "#414868"
+blue = "#7aa2f7"
+cyan = "#7dcfff"
+green = "#73daca"
+magenta = "#bb9af7"
+red = "#f7768e"
+white = "#c0caf5"
+yellow = "#e0af68"
+
+[colors.normal]
+black = "#414868"
+blue = "#7aa2f7"
+cyan = "#7dcfff"
+green = "#73daca"
+magenta = "#bb9af7"
+red = "#f7768e"
+white = "#c0caf5"
+yellow = "#e0af68"
+
+[colors.primary]
+background = "#1a1b26"
+foreground = "#a9b1d6"
+
+[font]
+size = 14
+#family = "FiraCode Nerd Font"
+
+[font.bold]
+family = "FiraCodeNerdFont"
+style = "Bold"
+
+[font.bold_italic]
+family = "FiraCodeNerdFont"
+style = "Bold Italic"
+
+[font.italic]
+family = "FiraCodeNerdFont"
+style = "Italic"
+
+[font.normal]
+family = "FiraCodeNerdFont"
+style = "Regular"
+
+[[keyboard.bindings]]
+action = "ToggleFullscreen"
+key = "F11"
+
+[scrolling]
+history = 50000
+
+[window]
+opacity = 0.95
+
+padding = { x = 28, y = 20 } 

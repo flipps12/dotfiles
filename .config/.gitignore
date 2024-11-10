@@ -1,0 +1,8 @@
+/*
+!.gitignore
+
+!alacritty
+!kitty
+!nvim
+!rofi
+!qtile
